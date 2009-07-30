@@ -1,3 +1,7 @@
-First attempt
--------------
+Second attempt, score: ?
+------------------------
+Use the 10 most popular repositories the user isn't yet following as suggestions.
+
+First attempt, score: 0
+-----------------------
 Completely random suggestions, picked from the list of repositories in repos.txt which the user is not yet watching.
